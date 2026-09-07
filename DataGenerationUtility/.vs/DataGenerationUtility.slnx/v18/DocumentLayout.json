@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\github\\MoT_Prompting_For_Testers\\DataGenerationUtility\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8090F6D-FF22-1711-0A69-9AC4EBB4382D}|DataGenerationUtility.csproj|c:\\github\\mot_prompting_for_testers\\datagenerationutility\\tests\\nunittests\\generatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8090F6D-FF22-1711-0A69-9AC4EBB4382D}|DataGenerationUtility.csproj|solutionrelative:tests\\nunittests\\generatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8090F6D-FF22-1711-0A69-9AC4EBB4382D}|DataGenerationUtility.csproj|c:\\github\\mot_prompting_for_testers\\datagenerationutility\\src\\testdatagenerator\\invalidfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8090F6D-FF22-1711-0A69-9AC4EBB4382D}|DataGenerationUtility.csproj|solutionrelative:src\\testdatagenerator\\invalidfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8090F6D-FF22-1711-0A69-9AC4EBB4382D}|DataGenerationUtility.csproj|c:\\github\\mot_prompting_for_testers\\datagenerationutility\\src\\testdatagenerator\\testdatagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8090F6D-FF22-1711-0A69-9AC4EBB4382D}|DataGenerationUtility.csproj|solutionrelative:src\\testdatagenerator\\testdatagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8090F6D-FF22-1711-0A69-9AC4EBB4382D}|DataGenerationUtility.csproj|c:\\github\\mot_prompting_for_testers\\datagenerationutility\\tests\\mstesttests\\generatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8090F6D-FF22-1711-0A69-9AC4EBB4382D}|DataGenerationUtility.csproj|solutionrelative:tests\\mstesttests\\generatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8090F6D-FF22-1711-0A69-9AC4EBB4382D}|DataGenerationUtility.csproj|c:\\github\\mot_prompting_for_testers\\datagenerationutility\\src\\consolerunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8090F6D-FF22-1711-0A69-9AC4EBB4382D}|DataGenerationUtility.csproj|solutionrelative:src\\consolerunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8090F6D-FF22-1711-0A69-9AC4EBB4382D}|DataGenerationUtility.csproj|c:\\github\\mot_prompting_for_testers\\datagenerationutility\\src\\testdatagenerator\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8090F6D-FF22-1711-0A69-9AC4EBB4382D}|DataGenerationUtility.csproj|solutionrelative:src\\testdatagenerator\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8090F6D-FF22-1711-0A69-9AC4EBB4382D}|DataGenerationUtility.csproj|c:\\github\\mot_prompting_for_testers\\datagenerationutility\\datagenerationutility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8090F6D-FF22-1711-0A69-9AC4EBB4382D}|DataGenerationUtility.csproj|solutionrelative:datagenerationutility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8090F6D-FF22-1711-0A69-9AC4EBB4382D}|DataGenerationUtility.csproj|c:\\github\\mot_prompting_for_testers\\datagenerationutility\\src\\testdatagenerator\\testdatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8090F6D-FF22-1711-0A69-9AC4EBB4382D}|DataGenerationUtility.csproj|solutionrelative:src\\testdatagenerator\\testdatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 370,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvalidField.cs",
+              "DocumentMoniker": "C:\\github\\MoT_Prompting_For_Testers\\DataGenerationUtility\\src\\TestDataGenerator\\InvalidField.cs",
+              "RelativeDocumentMoniker": "src\\TestDataGenerator\\InvalidField.cs",
+              "ToolTip": "C:\\github\\MoT_Prompting_For_Testers\\DataGenerationUtility\\src\\TestDataGenerator\\InvalidField.cs",
+              "RelativeToolTip": "src\\TestDataGenerator\\InvalidField.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T20:25:41.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeneratorTests.cs",
+              "DocumentMoniker": "C:\\github\\MoT_Prompting_For_Testers\\DataGenerationUtility\\tests\\NUnitTests\\GeneratorTests.cs",
+              "RelativeDocumentMoniker": "tests\\NUnitTests\\GeneratorTests.cs",
+              "ToolTip": "C:\\github\\MoT_Prompting_For_Testers\\DataGenerationUtility\\tests\\NUnitTests\\GeneratorTests.cs",
+              "RelativeToolTip": "tests\\NUnitTests\\GeneratorTests.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAWwLkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T19:55:35.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestDataGenerator.cs",
+              "DocumentMoniker": "C:\\github\\MoT_Prompting_For_Testers\\DataGenerationUtility\\src\\TestDataGenerator\\TestDataGenerator.cs",
+              "RelativeDocumentMoniker": "src\\TestDataGenerator\\TestDataGenerator.cs",
+              "ToolTip": "C:\\github\\MoT_Prompting_For_Testers\\DataGenerationUtility\\src\\TestDataGenerator\\TestDataGenerator.cs",
+              "RelativeToolTip": "src\\TestDataGenerator\\TestDataGenerator.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T19:53:24.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\github\\MoT_Prompting_For_Testers\\DataGenerationUtility\\src\\ConsoleRunner\\Program.cs",
+              "RelativeDocumentMoniker": "src\\ConsoleRunner\\Program.cs",
+              "ToolTip": "C:\\github\\MoT_Prompting_For_Testers\\DataGenerationUtility\\src\\ConsoleRunner\\Program.cs",
+              "RelativeToolTip": "src\\ConsoleRunner\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T19:48:33.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeneratorTests.cs",
+              "DocumentMoniker": "C:\\github\\MoT_Prompting_For_Testers\\DataGenerationUtility\\tests\\MSTestTests\\GeneratorTests.cs",
+              "RelativeDocumentMoniker": "tests\\MSTestTests\\GeneratorTests.cs",
+              "ToolTip": "C:\\github\\MoT_Prompting_For_Testers\\DataGenerationUtility\\tests\\MSTestTests\\GeneratorTests.cs",
+              "RelativeToolTip": "tests\\MSTestTests\\GeneratorTests.cs",
+              "ViewState": "AgIAACYBAAAAAAAAAAAAwCgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T19:49:15.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\github\\MoT_Prompting_For_Testers\\DataGenerationUtility\\src\\TestDataGenerator\\Person.cs",
+              "RelativeDocumentMoniker": "src\\TestDataGenerator\\Person.cs",
+              "ToolTip": "C:\\github\\MoT_Prompting_For_Testers\\DataGenerationUtility\\src\\TestDataGenerator\\Person.cs",
+              "RelativeToolTip": "src\\TestDataGenerator\\Person.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T19:46:31.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataGenerationUtility.csproj",
+              "DocumentMoniker": "C:\\github\\MoT_Prompting_For_Testers\\DataGenerationUtility\\DataGenerationUtility.csproj",
+              "RelativeDocumentMoniker": "DataGenerationUtility.csproj",
+              "ToolTip": "C:\\github\\MoT_Prompting_For_Testers\\DataGenerationUtility\\DataGenerationUtility.csproj",
+              "RelativeToolTip": "DataGenerationUtility.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-06T19:52:46.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestDataType.cs",
+              "DocumentMoniker": "C:\\github\\MoT_Prompting_For_Testers\\DataGenerationUtility\\src\\TestDataGenerator\\TestDataType.cs",
+              "RelativeDocumentMoniker": "src\\TestDataGenerator\\TestDataType.cs",
+              "ToolTip": "C:\\github\\MoT_Prompting_For_Testers\\DataGenerationUtility\\src\\TestDataGenerator\\TestDataType.cs",
+              "RelativeToolTip": "src\\TestDataGenerator\\TestDataType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T19:53:05.211Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -40,5 +40,50 @@ Create the TestDataGeneratorUtility.cs file.
 QA continued with prompt:
 Update test files to hage Additional Enterprise SDET Tests Recommended
 Update the MSTest and NUnit test files.
+=> Person class required to be updated as the data of birth data type changed to DateOnly and added complexity for test data generation with a negative and positive field for date of birth
+
+QA continued with prompt:
+Update the person class
+=> Build errors were found and decided that blindly accepting DateOnly for date of birth was bad idea and reverted back to string
+
+QA continued with prompt:
+Update to use public string DateOfBirth { get; init; } = string.Empty;
+Update all required files
+Update the test files
+=> Build warnings for MSTest Assert.
+
+QA continue with prompt:
+MSTest
+Use Assert.Contains over Assert.IsTrue
+Use Assert.ThrowsException over ExpectedException
+Update MSTest file
+Use FluentAssertions for onlycontain.
+Update MSTest file
+MSTEST assert should use  ThrowsExactly over ThrowsException
+Update MSTest file
+
+This is a good starting point but there are so many improvements that could be made, for example, randomising the data using faker (or similar) library.
+
+I like that it identifies what it has created but what can be better, see below
+
+Note: This is a foundational implementation. For a production-quality SDET-grade solution, I would normally extend it with:
+
+Full .NET 10 solution/project files (.sln, .csproj)
+Realistic ISO 3166 country generation
+HMRC NINO format validation and generation
+Configurable test-data strategies
+Weighted randomization
+Comprehensive boundary datasets
+Security-focused payload libraries (XSS, SQL injection, Unicode, encoding, path traversal, etc.)
+Fluent API
+Bogus/Faker integration
+Thousands of automated unit tests
+CSV/JSON/XML export options
+Deterministic seeding
+Data annotations and validation rules
+CI/CD pipeline configuration
+
+QA tries to recreate prompt with all the necessary information, but finds the output is worse than iteratively prompting and improving.
+The output is very basic, hardcoded, missing the richness of the tests that would reference the Ministry of Testing, Heuristic cheat sheet.
 
 
